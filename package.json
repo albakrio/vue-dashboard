@@ -1,0 +1,27 @@
+{
+  "name": "vue-dashboard-clean",
+  "version": "1.0.0",
+  "description": "A clean Vue 3 dashboard with Tailwind CSS, Pinia, and Vue Query",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@tanstack/vue-query": "^4.29.11",
+    "pinia": "^2.0.28",
+    "vue": "^3.2.37",
+    "vue-router": "^4.1.6"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.1",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.17",
+    "vite": "^5.0.0"
+  },
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=8.0.0"
+  }
+}
