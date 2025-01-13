@@ -30,19 +30,19 @@ npm install
 npm run dev
 ```
 
-### 4️⃣ **Build for Production**
+### **Build for Production**
 ```bash
 npm run build
 ```
 
-### 5️⃣ **Preview Production Build**
+### **Preview Production Build**
 ```bash
 npm run preview
 ```
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 ```
 src/
 ├── assets/           # Static assets (images, fonts)
@@ -59,7 +59,7 @@ src/
 
 ---
 
-## 📝 Additional Notes
+## Additional Notes
 - **API Used:** [JSONPlaceholder](https://jsonplaceholder.typicode.com/) for posts and comments.
 - **State Management:** Implemented using **Pinia** for global state.
 - **Error Handling:** Gracefully handled with custom loading indicators and error messages.
